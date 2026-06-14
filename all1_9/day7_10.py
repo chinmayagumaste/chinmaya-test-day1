@@ -3,6 +3,4 @@ def check_odd_even(num):
         print("Even")
     else:
         print("Odd")
-
-
 check_odd_even(99)  

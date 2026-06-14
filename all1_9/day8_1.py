@@ -7,3 +7,4 @@ def sum(x):
 num = int(input("Enter a number: "))
 result = sum(num)
 print("The sum of the first", num, "natural numbers is:", result)
+
